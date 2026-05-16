@@ -234,9 +234,6 @@ The orchestration workflow is implemented using Azure Data Factory.
 
 ![ADF Pipeline](screenshots/adf/adf_pipeline_success.png)
 
-### Pipeline Design
-
-![ADF Design](screenshots/adf/adf_pipeline_design.png)
 
 ---
 
