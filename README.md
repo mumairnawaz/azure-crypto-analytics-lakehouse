@@ -279,7 +279,7 @@ The platform includes operational monitoring using Azure-native monitoring capab
 
 ## Trigger Monitoring
 
-![Trigger Monitoring](monitoring/trigger_execution_monitoring.png)
+![Trigger Monitoring](screenshots/triggers/automated_trigger_success.png)
 
 ---
 
