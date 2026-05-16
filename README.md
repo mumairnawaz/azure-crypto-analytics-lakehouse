@@ -1,4 +1,4 @@
-# Azure Crypto Analytics Platform
+# Azure Crypto Analytics Lakehouse
 
 ![Architecture](visuals/architecture/enterprise_project_structure.png)
 
