@@ -75,7 +75,7 @@ The project is designed as a portfolio-grade enterprise data engineering solutio
 
 ## High-Level Architecture
 
-![Workflow](visuals/flows/crypto_project_workflow.png)
+![Workflow](visuals/flows/Azure%20Data%20Engineering%20Flow.png)
 
 The architecture consists of:
 
