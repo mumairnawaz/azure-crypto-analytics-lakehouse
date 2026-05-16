@@ -298,7 +298,7 @@ The Gold layer generates business-ready analytical outputs.
 
 ## Dashboard Preview
 
-![Dashboard Preview](visuals/dashboards/crypto_market_dashboard_preview.png)
+![Dashboard Preview](visuals/dashboards/crypto_market_dashboard.png)
 
 ---
 
