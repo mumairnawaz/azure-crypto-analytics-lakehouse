@@ -275,7 +275,7 @@ The platform includes operational monitoring using Azure-native monitoring capab
 
 ## Monitoring Dashboard
 
-![Pipeline Monitoring](monitoring/pipeline_run_monitoring.png)
+![Pipeline Monitoring](monitoring/adf%20monitoring%20dashboard.png)
 
 ## Trigger Monitoring
 
